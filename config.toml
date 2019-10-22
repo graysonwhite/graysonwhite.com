@@ -6,37 +6,44 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
-
 [params]
-    description = "A website built through Hugo and blogdown."
+  subtitle= "PhD Student"
+  interests="Deep Reinforcement Learning, Machine Learning "
+  cv_name= "HadiSinaee_CV.pdf"
+  blog="http://myblog.edu"
 
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+[[params.affilation]]
+  name = "Reed College"
+  position = "Statistics Student"
+  contact = "grwhite@reed.edu"
 
-    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    MathJaxVersion = "2.7.5"
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/graysonwhite"
 
-    # path to the favicon, under "static"
-    favicon = "favicon.ico"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "linkedin"
+  url = "https://linkedin.com/in/graysonwhite13/"
 
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+
+[[params.introduction.paragraph]]
+  text="""
+  I am a student at Reed College majoring in Mathematics with a concentration in Statistics.
+  I grew up on beautiful Orcas Island, WA and moved to Portland, OR in 2017 to pursue my degree.
+  My interests include baseball statistics, hiking, and bicycling.
+  I am currently searching for research and internship oppurtunities for Summer 2020.
+  
+   """
+[[params.introduction.paragraph]]
+  text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
+	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
+	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
+	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
+	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
+  """
+
+
+
 
