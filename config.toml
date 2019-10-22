@@ -7,10 +7,9 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  subtitle= "PhD Student"
-  interests="Deep Reinforcement Learning, Machine Learning "
+  interests="Data science, baseball statistics, hiking, and bicycling."
   cv_name= "HadiSinaee_CV.pdf"
-  blog="http://myblog.edu"
+  blog="test"
 
 [[params.affilation]]
   name = "Reed College"
@@ -32,17 +31,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   text="""
   I am a student at Reed College majoring in Mathematics with a concentration in Statistics.
   I grew up on beautiful Orcas Island, WA and moved to Portland, OR in 2017 to pursue my degree.
-  My interests include baseball statistics, hiking, and bicycling.
   I am currently searching for research and internship oppurtunities for Summer 2020.
   
    """
-[[params.introduction.paragraph]]
-  text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
-	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
-	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
-	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
-	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
-  """
+
 
 
 
