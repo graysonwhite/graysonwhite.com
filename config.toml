@@ -7,7 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  interests="Data science, baseball statistics, hiking, and bicycling."
+  interests="Data science, statistics, hiking, and bicycling."
   cv_name= "HadiSinaee_CV.pdf"
   blog="test"
 
