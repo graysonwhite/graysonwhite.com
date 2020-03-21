@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.affilation]]
   name = "Reed College"
-  position = "Statistics Student"
+  position = "Statistics Undergraduate Student"
   contact = "grwhite@reed.edu"
 
 [[params.social]]
@@ -31,12 +31,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   text="""
   I am a student at Reed College majoring in Mathematics with a concentration in Statistics.
   I grew up on beautiful Orcas Island, WA and moved to Portland, OR in 2017 to pursue my degree.
-  I have accepted a position as a Data Science for Public Good undergraduate scholar at Oregon State University this summer. I will be developing forecasting tools for cost analysis of water
-and wastewater facilities in Oregon small towns and cities.
-  
    """
 
-
+[[params.introduction.paragraph]]
+  text="""
+  I have accepted a position as a Data Science for Public Good undergraduate scholar at Oregon State University this summer.
+  I will be developing forecasting tools for cost analysis of water and wastewater facilities in Oregon small towns and cities.
+   """
 
 
 
