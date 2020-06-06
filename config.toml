@@ -7,12 +7,12 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  interests="Data science, statistics, hiking, and bicycling."
+  interests="Data science, statistics, and the outdoors."
   cv_name= "grayson-white-resume.pdf"
 
 [[params.affilation]]
   name = "Reed College"
-  position = "Statistics Undergraduate Student"
+  position = "Mathematics & Statistics Undergraduate"
   contact = "grwhite@reed.edu"
 
 [[params.social]]
@@ -30,12 +30,22 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   text="""
   I am a student at Reed College majoring in Mathematics with a concentration in Statistics.
   I grew up on beautiful Orcas Island, WA and moved to Portland, OR in 2017 to pursue my degree.
+  My interests include data science, Bayesian statistics, and econometric applications of the former techniques.
    """
 
 [[params.introduction.paragraph]]
   text="""
-  I have accepted a position as a Data Science for Public Good undergraduate scholar at Oregon State University this summer.
-  I will be developing forecasting tools for cost analysis of water and wastewater facilities in Oregon small towns and cities.
+  I have accepted a position as a Data Science for Public Good undergraduate researcher at Oregon State University this summer.
+  I will be developing forcasting tools for cost analysis of water and wastewater facilities in Oregon small towns and cities, and
+  providing city planners with data driven solutions for planning long term development and financial investments.
+   """
+   
+[[params.introduction.paragraph]]
+  text="""
+  I have experiance working as a Statistics Tutor at Reed College.
+  While working as a tutor I held weekly study sessions for Math 141: Introduction to Probability and Statistics. 
+  I provided students with the help needed to answer questions regarding probability and statistics along with questions
+  regarding programming in R.
    """
 
 
