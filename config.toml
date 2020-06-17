@@ -35,9 +35,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.introduction.paragraph]]
   text="""
-  I have accepted a position as a Data Science for Public Good undergraduate researcher at Oregon State University this summer.
-  I will be developing forcasting tools for cost analysis of water and wastewater facilities in Oregon small towns and cities, and
-  providing city planners with data driven solutions for planning long term development and financial investments.
+  I am currently working as a Data Science for Public Good researcher at Oregon State University for the summer.
+  I am working with Dr. Christine Kelly to develop forcasting tools for cost analysis of water and wastewater
+  facilities in Oregon small towns and cities in order to
+  provide city planners with data driven solutions for planning long term development and financial investments.
    """
    
 [[params.introduction.paragraph]]
