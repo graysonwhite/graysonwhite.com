@@ -19,6 +19,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "GitHub"
   icon = "github"
   url = "https://github.com/graysonwhite"
+  
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/graysonwwhite"
 
 [[params.social]]
   name = "LinkedIn"
