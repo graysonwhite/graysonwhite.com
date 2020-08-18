@@ -35,7 +35,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   text="""
   I am a student at Reed College majoring in Mathematics with a concentration in Statistics.
   I grew up on beautiful Orcas Island, WA and moved to Portland, OR in 2017 to pursue my degree.
-  My interests include data science, Bayesian statistics, and econometric applications of the former techniques.
+  My interests include Bayesian statistics, applications of Bayesian methods to environmental
+  and econometric settings, data science, and data visualization.
    """
 
 [[params.introduction.paragraph]]
