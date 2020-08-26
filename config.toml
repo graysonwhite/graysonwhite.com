@@ -8,7 +8,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   interests="Data science, statistics, and the outdoors."
-  cv_name= "grayson-white-resume.pdf"
+  cv_name= "cv.pdf"
 
 [[params.affilation]]
   name = "Reed College"
@@ -41,8 +41,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.introduction.paragraph]]
   text="""
-  I am currently working as a Data Science for Public Good researcher at Oregon State University for the summer.
-  I am working with Dr. Christine Kelly to develop forcasting tools for cost analysis of water and wastewater
+  I am currently entering my senior year at Reed College and will be writing a year long thesis.
+  I will also be applying to graduate programs in statistics this fall, to enter a program in fall 2021.
+  While thesising, I will be working as a Course Assistant for Math 141: Introduction to Probability &
+  Statistics, and an independent tutor for Econ 311: Survey of Econometric Methods. 
+   """
+
+[[params.introduction.paragraph]]
+  text="""
+  Last summer, I worked as a Data Science for Public Good researcher at Oregon State University.
+  I worked with Dr. Christine Kelly to develop forcasting tools for cost analysis of water and wastewater
   facilities in Oregon small towns and cities in order to
   provide city planners with data driven solutions for planning long term development and financial investments.
    """
