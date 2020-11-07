@@ -41,9 +41,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.introduction.paragraph]]
   text="""
-  I am currently entering my senior year at Reed College and will be writing a year long thesis.
-  I will also be applying to graduate programs in statistics this fall, to enter a program in fall 2021.
-  While thesising, I will be working as a Course Assistant for Math 141: Introduction to Probability &
+  I am currently a senior at Reed College and am writing a year long thesis investigating the benefits of
+  hierarchical Bayesian modeling for small area estimation, in particular with an application to forestry data. 
+  I am also applying to graduate programs in statistics this fall, to enter a program in fall 2021.
+  Currently, I am also working as a Course Assistant for Math 141: Introduction to Probability &
   Statistics, and an independent tutor for Econ 311: Survey of Econometric Methods. 
    """
 
